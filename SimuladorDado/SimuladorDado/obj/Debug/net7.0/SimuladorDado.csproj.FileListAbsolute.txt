@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\bin\Debug\net7.0\SimuladorDado.exe
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\bin\Debug\net7.0\SimuladorDado.deps.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\bin\Debug\net7.0\SimuladorDado.runtimeconfig.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\bin\Debug\net7.0\SimuladorDado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\bin\Debug\net7.0\SimuladorDado.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.AssemblyInfo.cs
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\refint\SimuladorDado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\SimuladorDado.genruntimeconfig.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorDado\SimuladorDado\obj\Debug\net7.0\ref\SimuladorDado.dll

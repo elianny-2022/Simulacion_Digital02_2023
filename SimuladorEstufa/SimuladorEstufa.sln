@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorEstufa", "SimuladorEstufa\SimuladorEstufa.csproj", "{1A095AD0-06E6-4A67-98BC-FFCA03E83960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A095AD0-06E6-4A67-98BC-FFCA03E83960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A095AD0-06E6-4A67-98BC-FFCA03E83960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A095AD0-06E6-4A67-98BC-FFCA03E83960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A095AD0-06E6-4A67-98BC-FFCA03E83960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875B8AC9-002F-4350-94EF-66E577E34679}
+	EndGlobalSection
+EndGlobal

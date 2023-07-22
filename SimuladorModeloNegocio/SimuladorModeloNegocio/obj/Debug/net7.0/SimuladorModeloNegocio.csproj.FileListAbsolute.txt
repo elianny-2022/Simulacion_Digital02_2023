@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\bin\Debug\net7.0\SimuladorModeloNegocio.exe
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\bin\Debug\net7.0\SimuladorModeloNegocio.deps.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\bin\Debug\net7.0\SimuladorModeloNegocio.runtimeconfig.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\bin\Debug\net7.0\SimuladorModeloNegocio.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\bin\Debug\net7.0\SimuladorModeloNegocio.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.AssemblyInfo.cs
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\refint\SimuladorModeloNegocio.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\SimuladorModeloNegocio.genruntimeconfig.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\SimuladorModeloNegocio\SimuladorModeloNegocio\obj\Debug\net7.0\ref\SimuladorModeloNegocio.dll

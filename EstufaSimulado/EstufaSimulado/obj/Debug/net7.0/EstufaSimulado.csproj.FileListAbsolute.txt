@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\bin\Debug\net7.0\EstufaSimulado.exe
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\bin\Debug\net7.0\EstufaSimulado.deps.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\bin\Debug\net7.0\EstufaSimulado.runtimeconfig.json
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\bin\Debug\net7.0\EstufaSimulado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\bin\Debug\net7.0\EstufaSimulado.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.AssemblyInfo.cs
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\refint\EstufaSimulado.dll
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.pdb
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\EstufaSimulado.genruntimeconfig.cache
+C:\Users\hp\Desktop\Semestre 2-2023\Simulacion\EstufaSimulado\EstufaSimulado\obj\Debug\net7.0\ref\EstufaSimulado.dll

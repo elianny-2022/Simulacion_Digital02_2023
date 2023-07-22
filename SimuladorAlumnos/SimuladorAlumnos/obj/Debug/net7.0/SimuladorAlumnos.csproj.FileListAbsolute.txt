@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\bin\Debug\net7.0\SimuladorAlumnos.exe
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\bin\Debug\net7.0\SimuladorAlumnos.deps.json
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\bin\Debug\net7.0\SimuladorAlumnos.runtimeconfig.json
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\bin\Debug\net7.0\SimuladorAlumnos.dll
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\bin\Debug\net7.0\SimuladorAlumnos.pdb
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.AssemblyInfo.cs
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.dll
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\refint\SimuladorAlumnos.dll
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.pdb
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\SimuladorAlumnos.genruntimeconfig.cache
+C:\Users\hp\source\repos\SimuladorAlumnos\SimuladorAlumnos\obj\Debug\net7.0\ref\SimuladorAlumnos.dll
